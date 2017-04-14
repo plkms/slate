@@ -29,10 +29,6 @@ activate :autoprefixer do |config|
   config.inline   = true
 end
 
-# Pdfmaker custom extension. Add if you want PDF generati
-require 'makepdf'
-activate :pdfmaker
-
 # Github pages require relative links
 activate :relative_assets
 set :relative_links, true
