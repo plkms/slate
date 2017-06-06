@@ -505,6 +505,10 @@ html, body {
     @extend %icon-ok-sign;
   }
 
+  aside.terminal:before {
+    @extend %icon-terminal;
+  }
+
   .search-highlight {
     padding: 2px;
     margin: -2px;
