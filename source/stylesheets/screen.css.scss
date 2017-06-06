@@ -506,7 +506,7 @@ html, body {
   }
 
   aside.terminal:before {
-    @extend %icon-terminal;
+    @extend %icon-ok-sign;
   }
 
   .search-highlight {
