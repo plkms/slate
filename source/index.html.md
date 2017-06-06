@@ -61,7 +61,7 @@ Kittn expects for the API key to be included in all API requests to the server i
 
 `Authorization: meowmeowmeow`
 
-<aside class="notice">
+<aside class="terminal">
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
